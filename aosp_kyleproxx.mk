@@ -1,5 +1,4 @@
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/aosp/common.mk)
+
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/kyleproxx/device_kyleproxx.mk)
